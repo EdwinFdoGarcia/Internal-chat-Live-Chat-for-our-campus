@@ -1,6 +1,6 @@
-# Internal-chat-Live-Chat-for-our-campus.
+# Internal chat Live Chat for our campus.
 
-![Internal-chat-Live-Chat-for-our-campus](images/project.png)
+![Internal chat Live Chat for our campus](images/project.png)
 
 
 We unify our Chat communications for our administrative assistants, teachers and students. 
@@ -14,15 +14,15 @@ In addition we contact you in a live chat with our applicants.
 **Application:** [Rocket.chat](https://Rocket.chat)  
 
 ## Features 
-Free audio and video conferencing, guest access, screen sharing, file sharing, LiveChat, LDAP Group Sync, two-factor authentication (2FA), E2E encryption, SSO, and dozens of OAuth providers.
+Free audio and video conferencing, guest access, screen sharing, file sharing, LiveChat, LDAP Group Sync, two-actor authentication (2FA), E2E encryption, SSO, and dozens of OAuth providers.
 
 **Also includes unlimited:**
 Users, Channels, Searches, Messages, Guests, File uploads...
 
-----
+ ----   
 
-![Internal-chat-Live-Chat-for-our-campus](images/chat.png)
+![Internal chat Live Chat for our campus](images/chat.png)
 
-----
+ ----   
 
-![Internal-chat-Live-Chat-for-our-campus](images/chat1.png)
+![Internal chat Live Chat for our campus](images/chat1.png)
